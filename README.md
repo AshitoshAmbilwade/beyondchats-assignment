@@ -167,7 +167,7 @@ http://localhost:5173
 ## 🖥️ Live Demo
 
 🔗 **Frontend Live URL:**
-👉 *Add your deployed frontend link here (Vercel / Netlify)*
+👉 https://beyondchats-assignment-blue.vercel.app/
 
 The live app displays:
 
@@ -224,3 +224,4 @@ The live app displays:
 **Ashitosh**
 Full-Stack Developer
 AI & Automation Enthusiast
+
