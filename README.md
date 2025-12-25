@@ -169,6 +169,8 @@ http://localhost:5173
 🔗 **Frontend Live URL:**
 👉 https://beyondchats-assignment-blue.vercel.app/
 
+Tip- Backend is local you need to run it locally
+
 The live app displays:
 
 * Original articles
@@ -224,4 +226,5 @@ The live app displays:
 **Ashitosh**
 Full-Stack Developer
 AI & Automation Enthusiast
+
 
